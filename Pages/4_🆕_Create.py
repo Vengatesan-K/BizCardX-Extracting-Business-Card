@@ -14,7 +14,7 @@ with st.sidebar:
             mention(
             label="Business card",
             icon="Streamlit",  # Some icons are available... like Streamlit!
-            url="https://stock-price-analysis-yfinance-vengatesan.streamlit.app/",)
+            url="https://github.com/Vengatesan-K/BizCardX-Extracting-Business-Card",)
 
             selected = option_menu(
                 menu_title=None,
