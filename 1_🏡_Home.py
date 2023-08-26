@@ -11,7 +11,7 @@ with st.sidebar:
     mention(
     label="Business card",
     icon="Streamlit",  
-    url="https://stock-price-analysis-yfinance-vengatesan.streamlit.app/",)
+    url="https://github.com/Vengatesan-K/BizCardX-Extracting-Business-Card")
     st_lottie("https://lottie.host/01055e13-5f2a-4940-9636-9070f5eb3bc7/4kWxu5mB3C.json",height=200)  
     
 reduce_header_height_style = """
